@@ -2,7 +2,7 @@ Metadata-Version: 1.0
 Name: linalgnorm
 Version: 1.0
 Summary: This is a sample python package for encapsulating custom tranforms from scikit-learn into Watson Machine Learning
-Home-page: https://github.com/alexanderaugusto/locus-deploy-transforms/
+Home-page: https://github.com/alexanderaugusto/locus-sklearn-transforms/
 Author: Alexander Augusto
 Author-email: alexaasf1010@gmail.com
 License: BSD
