@@ -1,1 +1,1 @@
-locus-sklearn-transforms
+locus_deploy_transforms

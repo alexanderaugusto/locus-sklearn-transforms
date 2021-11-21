@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='locus-sklearn-transforms',
+    name='locus_deploy_transforms',
     version='1.0',
     description='''
             This is a sample python package for encapsulating custom
@@ -12,7 +12,7 @@ setup(
     author_email='alexaasf1010@gmail.com',
     license='BSD',
     packages=[
-        'locus-sklearn-transforms'
+        'locus_deploy_transforms'
     ],
     zip_safe=False
 )
